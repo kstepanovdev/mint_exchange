@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-mint_exchange = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+mint_exchange = "CGEYAjkfYU696uy1i3XSpn5TzVvprPMTdAbsng9b2jrE"
 
 [registry]
 url = "https://anchor.projectserum.com"
