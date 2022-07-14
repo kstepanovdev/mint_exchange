@@ -5,7 +5,6 @@ The project has 3 things:
 
 1) Create/mint and send Tokens
 2) Create/mint NFTs
-3) Create WSOL and send it to a wallet
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
